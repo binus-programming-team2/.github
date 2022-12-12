@@ -1,2 +1,2 @@
 # .github
-Team Information Team 7
+Team Information Team 2
