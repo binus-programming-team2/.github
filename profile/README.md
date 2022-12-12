@@ -1,4 +1,4 @@
-# Team 7 Introduction To Programming
+# Team 2 Introduction To Programming
 
 ### Anggota Kelompok
 
